@@ -35,7 +35,7 @@ Please answer the following questions below, you may edit the readme file to inc
     Functions are used because they can be used an infinite amount of times and can be used with different information
 
 5. How do you access a key inside of an object inside of an array?
-    
+                    array[i].key
 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
